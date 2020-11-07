@@ -1,6 +1,7 @@
 # React_face
 SmartBrain-api - Dockerized
-Final project for ZTM course - using Docker
+
+
 
 Clone this repo
 run npm install
